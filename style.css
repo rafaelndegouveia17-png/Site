@@ -1,0 +1,20 @@
+body {
+    border: 5px solid #000000; /* A cor da borda da página */
+    text-decoration-color: #ffffff; /* Cor da decoração do texto */
+    font-family: Arial,  sans-serif; /* Font family */
+    font-size: 11px; /* O tamanho da fonte principal<p></p> tag  */
+    background-color: #bdbd5a; /* A cor do plano de fundo da página */
+    color: #4b4180; /* A cor do texto */ 
+}
+h1 {
+    color: #329132ad; /* A cor do cabeçalho */
+    font-size: 40px; /* A cor da fonte do cabeçalho */
+    font-family: Georgia, serif; /* A font usada no cabeçalho*/
+}
+
+p {
+    font-family: Georgia, serif;
+    font-size: 12px; /* O tamanho da fonte dos parágrafos */
+    line-height: 1; /* Espaçamento entre linhas dos parágrafos */
+    margin-bottom: 15px; /* Espaçamento abaixo dos parágrafos */
+}
