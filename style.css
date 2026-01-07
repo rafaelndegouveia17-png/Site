@@ -18,3 +18,11 @@ p {
     line-height: 1; /* Espaçamento entre linhas dos parágrafos */
     margin-bottom: 15px; /* Espaçamento abaixo dos parágrafos */
 }
+@keyframes pulse {
+  0%   { color: blue; }
+  50%  { color: red; }
+  100% { color: blue; }
+}
+h1 {
+  animation: pulse 2s infinite;
+}
